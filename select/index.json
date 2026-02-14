@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Forever girl",
+  "base_artist": "Kis-My-Ft2",
+  "createdAt": "2026-02-14T14:34:01.624755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forever Girl",
+      "artist": "Forever the Sickest Kids",
+      "has_synced": true,
+      "path": "select/01_Forever_Girl_Forever_the_Sickest_Kids.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Forever Girl",
+      "artist": "3T",
+      "has_synced": false,
+      "path": "select/02_Forever_Girl_3T.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Forever Girl (Album Version)",
+      "artist": "Forever The Sickest Kids",
+      "has_synced": true,
+      "path": "select/03_Forever_Girl_(Album_Version)_Forever_The_Sickest_Kids.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forever Girl",
+      "artist": "Jon Langston",
+      "has_synced": false,
+      "path": "select/04_Forever_Girl_Jon_Langston.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forever Girl",
+      "artist": "Jon Langston",
+      "has_synced": true,
+      "path": "select/05_Forever_Girl_Jon_Langston.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forever Girl",
+      "artist": "Ott",
+      "has_synced": false,
+      "path": "select/06_Forever_Girl_Ott.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forever Girl",
+      "artist": "Marshall Dane",
+      "has_synced": true,
+      "path": "select/07_Forever_Girl_Marshall_Dane.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forever Girl",
+      "artist": "Jon Langston",
+      "has_synced": false,
+      "path": "select/08_Forever_Girl_Jon_Langston.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Your Forever Girl",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/09_Your_Forever_Girl_Debbie_Gibson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forever girl",
+      "artist": "Kis-My-Ft2",
+      "has_synced": false,
+      "path": "select/pl_01_Forever_girl_Kis-My-Ft2.txt"
+    }
+  ]
+}
