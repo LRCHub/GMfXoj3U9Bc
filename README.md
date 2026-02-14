@@ -1,0 +1,67 @@
+# Kis-My-Ft2 – Forever girl
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+出会えたあの日からもう
+何回の花が咲いたろう Feeling more
+僕らだけの Story 待ち合わせの街路樹も
+ふたりのもの
+By my side
+Stay by my side
+優しさがこんな僕にもあった
+一歩ずつ自分も好きになって
+約束するよ Lead you to love
+大切な Forever girl
+明日からも手を繋いでこう
+Wonderful Beautiful 君といる未来
+守るから Lover lover lover
+Forever girl
+U-ah U-ah U-ah-uh U-ah U-ah U-ah-uh
+U-ah U-ah U-ah-uh U-ah U-ah U-ah-uh
+Forever girl
+U-ah U-ah U-ah-uh U-ah U-ah U-ah-uh
+Forever girl
+U-ah U-ah U-ah-uh
+誰だって You and I
+思い描いた恋のとおりって
+出来ないもので What we're missing oh baby
+同じ気持ちなのにたまに イライラしたまま
+そっぽ向いて謝れない
+Stand by me
+Stand by me now
+寄りかかって甘い香り触れると
+一個ずつ嫌なこと忘れて
+乗り越えたくなれるから
+君だけが Forever girl
+すべてが僕らだけの思い出
+Wonderful Beautiful 明日も笑って
+そばにいて Lover lover lover
+Forever girl
+Ah まだ道の途中で
+また Miss でも想いは Never ending
+In the morning, evening
+I'm feeling the sound
+君がいるだけで落ち着く
+So 前霞みつまずき
+この歩みは Slowでも言えるよ Don't stop me
+Ah どんな時代が来ても
+Wish you, we'll go on
+大切な Forever girl
+明日からも手を繋いでこう
+Wonderful Beautiful
+君といる未来 守るから
+君だけが Forever girl
+すべてが僕らだけの思い出
+Wonderful Beautiful
+明日も笑って
+そばにいて Lover lover lover
+Forever girl
+U-ah U-ah U-ah-uh U-ah U-ah U-ah-uh
+U-ah U-ah U-ah-uh U-ah U-ah U-ah-uh
+Forever girl
+U-ah U-ah U-ah-uh U-ah U-ah U-ah-uh
+君だけがForever girl
+Forever girl
+U-ah U-ah U-ah-uh
+```
